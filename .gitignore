@@ -174,3 +174,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+#Others
+*.suo
+*.sln.cache
